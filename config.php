@@ -6,12 +6,12 @@
 $CONFIG = array(
 
 	// Instagram login
-	'LOGIN' => '',
+	'LOGIN' => 'zozh.me',
 
 	// ACCESS TOKEN granted to you by some Instagram app.
 	// Follow this link: http://inwidget.ru/getAccessToken.php
 	// to get your own ACCESS TOKEN by inWidget app.
-	'ACCESS_TOKEN' => '',
+	'ACCESS_TOKEN' => '2175835114.a7f6f15.2519f5e95a43420e85df184ff7a438b2',
 
 	// Get pictures from WORLDWIDE by tag name. 
 	// Use this options only if you want show pictures of other users. 
@@ -19,7 +19,7 @@ $CONFIG = array(
 	'HASHTAG' => '',
 
 	// Random order of pictures [ true / false ]
-	'imgRandom' => true,
+	'imgRandom' => false,
 
 	// How many pictures widget will get from Instagram?
 	'imgCount' => 30,
